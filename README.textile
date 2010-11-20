@@ -1,6 +1,6 @@
-(Self Conceived) Public License - Draft A (112010)
+h1. (Self Conceived) Public License - Draft A (112010)
 
-What is a (Self Conceived) Public License?
+_*What is a (Self Conceived) Public License?*_
 
 If for some reason you express a presence by or non movement; displaying 
 yourself in front of others, such as including people you acknowledge their 
@@ -15,7 +15,7 @@ Portuguese: "coisa", meaning "thing"; cause; a dense and definable unit that
 initiates effect and promulgates reverberations in our being and in others - the 
 source and its result.
 
-"I capture it, being malleable, it shapes me: I acquired. It modified me, I 
+bq. "I capture it, being malleable, it shapes me: I acquired. It modified me, I 
 now express differently with my mutation; as small or big, whatever the 
 difference. I get and set, from and to my environment modulations; to change all 
 things exterior..." - Author
